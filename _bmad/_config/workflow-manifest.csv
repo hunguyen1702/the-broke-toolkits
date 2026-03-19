@@ -1,0 +1,9 @@
+name,description,module,path
+"brainstorming","Facilitate interactive brainstorming sessions using diverse creative techniques and ideation methods","core","_bmad/core/workflows/brainstorming/workflow.md"
+"party-mode","Orchestrates group discussions between all installed BMAD agents, enabling natural multi-agent conversations","core","_bmad/core/workflows/party-mode/workflow.md"
+"execute-quest","Execute a Quest with parallel task processing and adversarial review","rune-smith","_bmad/rune-smith/workflows/execute-quest/workflow.md"
+"forge-architecture","Generate a high-level Architecture Document from PRD and codebase analysis using Mimir agent","rune-smith","_bmad/rune-smith/workflows/forge-architecture/workflow.md"
+"forge-prd","Forge a PRD document through codebase analysis and user input","rune-smith","_bmad/rune-smith/workflows/forge-prd/workflow.md"
+"new-quest","Plan a new feature with Discovery, Analysis, and Quest generation","rune-smith","_bmad/rune-smith/workflows/new-quest/workflow.md"
+"quick-fix","Rapidly fix bugs without full Quest ceremony","rune-smith","_bmad/rune-smith/workflows/quick-fix/workflow.md"
+"update-saga","Sync Saga documentation from multiple Quest folders","rune-smith","_bmad/rune-smith/workflows/update-saga/workflow.md"
