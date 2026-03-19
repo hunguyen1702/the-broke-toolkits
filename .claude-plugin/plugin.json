@@ -4,8 +4,9 @@
   "version": "0.1.0",
   "author": {
     "name": "Hung Nguyen",
-    "email": "hung@hungnguyen.dev"
+    "email": "hunguyen1702@gmail.com"
   },
   "keywords": ["productivity", "utilities", "tools"],
-  "license": "MIT"
+  "license": "MIT",
+  "agents": "./agents"
 }
