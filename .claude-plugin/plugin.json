@@ -1,0 +1,11 @@
+{
+  "name": "toolkits",
+  "description": "A collection of personal productivity tools and utilities for Claude Code",
+  "version": "0.1.0",
+  "author": {
+    "name": "Hung Nguyen",
+    "email": "hung@hungnguyen.dev"
+  },
+  "keywords": ["productivity", "utilities", "tools"],
+  "license": "MIT"
+}
