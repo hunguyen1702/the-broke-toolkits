@@ -1,4 +1,4 @@
-# broke-toolkits
+# the-broke-toolkits
 
 Personal productivity toolkits for Claude Code.
 
@@ -46,7 +46,7 @@ Installed via `skills-lock.json`.
 ## Installation
 
 ```bash
-/plugin install broke-toolkits
+/plugin install hunguyen1702/the-broke-toolkits
 ```
 
 See [AGENTS.md](./AGENTS.md) for beads usage guide.
