@@ -8,5 +8,8 @@
   },
   "keywords": ["productivity", "utilities", "tools"],
   "license": "MIT",
-  "agents": "./agents"
+  "commands": "./commands",
+  "skills": "./skills",
+  "agents": "./agents",
+  "hooks": "./hooks/hooks.json"
 }
