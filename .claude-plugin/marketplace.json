@@ -1,0 +1,13 @@
+{
+  "name": "broke-toolkits",
+  "source": "hunguyen1702/the-broke-toolkits",
+  "description": "A collection of personal productivity tools and utilities for Claude Code",
+  "version": "0.1.0",
+  "keywords": ["productivity", "utilities", "tools", "brainstorming", "architecture", "prd", "spec"],
+  "category": "productivity",
+  "author": {
+    "name": "Hung Nguyen",
+    "email": "hunguyen1702@gmail.com"
+  },
+  "license": "MIT"
+}
